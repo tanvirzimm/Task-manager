@@ -1,21 +1,21 @@
-#Live Demo
+# Live Demo
 ```shell
 https://eager-hopper-0d9348.netlify.com
 ```
-######Clone this Repo :
+###### Clone this Repo :
 ```shell
 git clone https://github.com/tanvirzimm/Task-manager.git
 ```
-######Install :
+###### Install :
 ```shell
 npm install
 ```
 
-######Run :
+###### Run :
 ```shell
 npm start
 ```
-######Build dist:
+###### Build dist:
 ```shell
 npm run build
 ```
