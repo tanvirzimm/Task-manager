@@ -1,0 +1,77 @@
+html,body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color:#222;
+    background-color: #2A2B42;
+}
+
+
+h1{
+    font-size: 5rem;
+    text-align: center;
+    color:white;
+}
+
+.custom-btn{
+    background-color: #A25F7B;
+    border:none
+}
+
+.newtask{
+    min-height: 73px;
+    width:100%;
+    position: relative;
+    margin-bottom:5px;
+    word-wrap: break-word !important;
+    border-radius: 5px;
+    background-color: white;
+    
+}
+
+
+.newtask-p{
+    padding: 10px;
+}
+
+
+.del{
+    position: absolute;
+    left: 100%;
+    top:-5px;
+    color:#F84A53;
+}
+
+
+.controllpanel{
+    background-color: rgba(0,0,0,0.5);
+    position:absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    min-height:40px;
+    visibility: hidden;
+}
+
+
+
+.color-div{
+    width:25px;
+    height: 25px;
+    border-radius: 100%;
+}
+
+
+
+.textarea{
+position: absolute;
+resize: none;
+top:0;
+background-color: #2294F8;
+overflow:hidden;
+color:white;
+}
+
+.edit{
+    color:white;
+    margin-right:5px;
+}
