@@ -1,6 +1,7 @@
 # Live Demo
 ```shell
-[https://eager-hopper-0d9348.netlify.com](https://eager-hopper-0d9348.netlify.com)
+http://github.com - automatic!
+[GitHub](http://github.com)
 ```
 ###### Clone this Repo :
 ```shell
